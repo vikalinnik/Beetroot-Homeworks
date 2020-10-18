@@ -1,0 +1,48 @@
+body {
+    background: darkslategray;
+    color: beige;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    width: 60%;
+}
+.info {
+    display: inline-block;
+    width: 500px;
+}
+
+.info img {
+width: 150px;
+height: 200px;
+    float: left;
+    margin-right: 15px;
+}
+
+table {
+    border: 2px solid gray;
+}
+
+td,th {
+    border-bottom: 2px solid gray;
+}
+
+.name {
+    font-size: 24px;
+}
+
+.ed {
+}
+
+.flag img {
+    display: inline-block;
+    width: 40px;
+    height: 25px;
+    float: right;
+}
+

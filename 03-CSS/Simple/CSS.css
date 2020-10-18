@@ -1,0 +1,51 @@
+body {
+margin:0;
+padding:0;
+}
+
+div {
+    width: 760px;
+    margin: 0 auto;
+}
+
+header {
+    background: #A52A2A;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.span-1 {
+    font-style: italic;
+}
+ .span-2 {
+     font-weight: bold;
+ }
+
+ .span-3
+ {
+     font-style: italic;
+     font-weight: bold;
+     color: blue;
+ }
+
+ main div {
+  text-align: center;
+ }
+
+ main div img {
+     border-style: dashed;
+ }
+
+ footer {
+     background: black;
+     text-align: center;
+     color: white;
+     font-size: 20px;
+ }
+
+ p {
+     font-size: 18px;
+ }

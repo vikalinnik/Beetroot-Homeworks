@@ -1,0 +1,41 @@
+body {
+    background: #121116;
+}
+
+.logo {
+   text-align: center;
+    margin-top: 120px;
+}
+
+.text {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    margin-top: 51px
+}
+
+.separator {
+    text-align: center;
+    margin-top: 21px;
+}
+
+.social {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.social img {
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.copirate {
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    margin-top: 87px;
+}
+
+.copirate span {
+    color: #00c7fc;
+}
