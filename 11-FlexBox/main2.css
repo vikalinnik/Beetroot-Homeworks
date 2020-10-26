@@ -1,0 +1,81 @@
+a {
+    text-decoration: none;
+}
+section {
+    width: 1120px;
+    height: 1100px;
+    display: flex;
+    background: #e2e7ec;
+    margin: auto;
+    padding: 90px 240px 210px 240px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-family: 'Neue Hans Kendrick Regular', sans-serif;
+}
+
+.car {
+ background-image: url("479c8a17-2170-4b63-962c-82b9408fd003.jpg");
+    background-size: cover;
+    display: flex;
+    width: 740px;
+    height: 540px;
+    align-items: flex-end;
+
+}
+
+span {
+    font-size: 13px;
+    color: #818181;
+    font-weight: 300;
+}
+
+.car div {
+    font-size: 30px;
+    font-weight: 700;
+    width: 450px;
+    margin-left: 44px;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+    line-height: 36px;
+    letter-spacing: 0.025em;
+}
+
+.car div a {
+    color: white;
+}
+
+.foto {
+    width: 360px;
+    height: 540px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+}
+
+img[foto] {
+    width: 360px;
+    height: 250px;
+}
+
+.man {
+    width: 55px;
+    height: 55px;
+    margin-left: 25px;
+    margin-top: 65px;
+}
+
+.foto div {
+    font-size: 22px;
+    color: black;
+    font-weight: 700;
+    width: 300px;
+    text-transform: uppercase;
+    line-height: 30px;
+    margin-left: 25px;
+    margin-top: 30px;
+}
+
+.foto div a {
+    color: black;
+}
+

@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+* {
+    outline: none;
+}
+body {
+    background-image: url("2ce2f1a8-b7e4-4049-b913-a512e8c92354.jpg");
+    background-size: cover;
+    margin: 0;
+}
+
+p:nth-child(1) {
+    font-family: 'Raleway', sans-serif;
+    width: 700px;
+font-weight: bold;
+    font-size: 90px;
+    text-align: center;
+    color: #262626;
+    margin: 100px auto;
+    margin-bottom: 0;
+    line-height: 25px;
+}
+
+p:nth-child(2) {
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+    text-align: center;
+    color: #262626;
+    margin-top: 50px;
+    line-height: 25px;
+}
+form {;
+    margin-top: 45px;
+    float: left;
+}
+
+label {
+    display: block;
+    margin-bottom: 15px;
+}
+
+input, textarea {
+    background: #71d7d9;
+    border: none;
+    color: white;
+    width: 480px;
+    height: 50px;
+    margin: auto;
+    padding-left: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+}
+
+textarea {
+    width: 480px;
+    height: 230px;
+    resize: none;
+    padding-top: 20px;
+}
+
+button {
+    width: 150px;
+    height: 30px;
+    margin-left: 352px;
+    color: #0ec8cb;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+input::placeholder,textarea::placeholder { color: white;
+}
+
+#form :focus:not([type=submit])  {
+    background: #00c4c4;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+:focus::placeholder {
+    color: transparent;
+}
+
+footer {
+    width: 100%;
+    background: #262626;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #b9b9b9;
+    text-align: center;
+}
+
+footer span:nth-child(1) {
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 166px;
+    float: left;
+}
+
+footer span:nth-child(2) {
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+    line-height: 0;
+}
+footer span:nth-child(3) {
+    font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+    float: right;
+    margin-right: 170px;
+}
+
+.info {
+    float: right;
+}
+section {
+    width: 70%;
+    margin: 0 auto;
+}
+section {
+
+}
+div span {
+    font-size: 20px;
+     font-weight: normal;
+}
+
+ div {
+     font-family: Raleway, sans-serif;
+     font-weight: bold;
+     font-size: 17px;
+     margin-bottom: 10px;
+ }
